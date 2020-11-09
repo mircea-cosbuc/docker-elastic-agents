@@ -19,7 +19,7 @@ To build the jar, run `./gradlew clean test assemble`
 
 ## Is this production ready?
 
-It depends.
+Works for me
 
 **tl;dr;**
 
